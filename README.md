@@ -24,7 +24,4 @@ This is a **real-time vehicle tracking and counting system** built using **YOLOv
 - [Streamlit](https://streamlit.io/) for UI
 - Python 3.8+
 
----
-
-## 📁 Project Structure
 
